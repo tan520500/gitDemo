@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 dev branch builded again.
 add to dev branch and not stage yet.
+add this parag on gitDemo's dev branch
